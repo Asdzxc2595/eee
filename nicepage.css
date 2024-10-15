@@ -24011,7 +24011,7 @@ aside .u-categories.u-categories-vertical ul {
   touch-action: none;
   z-index: 1500;
 
-  /* create separate layer, to avoid paint on window.onscroll in webkit/blink */
+  /* create separate layer, to avoid paint on wi ndow.onscroll in webkit/blink */
   -webkit-backface-visibility: hidden;
   outline: none;
 }
