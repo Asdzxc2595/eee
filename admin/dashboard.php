@@ -129,7 +129,7 @@ $topProducts = $queryTopProducts->fetchAll(PDO::FETCH_ASSOC);
 
         .row .col-6 {
             margin-bottom: 20px;
-            /* พิ่มระยะห่างระหว่าง c   ard */
+            /* พิ่มระยะห่างระ หว่าง c   ard */
         }
 
         .table-responsive img {
