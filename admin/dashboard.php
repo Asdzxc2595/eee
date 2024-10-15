@@ -129,7 +129,7 @@ $topProducts = $queryTopProducts->fetchAll(PDO::FETCH_ASSOC);
 
         .row .col-6 {
             margin-bottom: 20px;
-            /* เพิ่มระยะห่างระหว่าง card */
+            /* พิ่มระยะห่างระหว่าง c   ard */
         }
 
         .table-responsive img {
